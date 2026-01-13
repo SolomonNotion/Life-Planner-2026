@@ -38,7 +38,7 @@ Intended users
 * Professionals managing stress, responsibility, or decision fatigue
 * Users who prefer calm, minimal systems over motivational tools
 * Notion users looking for a behavior-focused planning framework
-Duplicate here (https://rebrand.ly/toolconnects6a5e87)
+
 
 How to use
 
@@ -46,3 +46,6 @@ How to use
 2. Customize categories and fields to reflect personal contexts
 3. Log entries consistently, without over-analysis
 4. Review weekly to identify patterns and adjust behavior
+
+Duplicate here (https://rebrand.ly/toolconnects6a5e87)
+
