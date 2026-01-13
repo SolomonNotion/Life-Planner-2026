@@ -38,6 +38,7 @@ Intended users
 * Professionals managing stress, responsibility, or decision fatigue
 * Users who prefer calm, minimal systems over motivational tools
 * Notion users looking for a behavior-focused planning framework
+Duplicate here (https://rebrand.ly/toolconnects6a5e87)
 
 How to use
 
